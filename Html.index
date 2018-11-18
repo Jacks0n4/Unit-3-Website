@@ -20,7 +20,7 @@ li {
 
 li a {
     display: block;
-    color: Lightblue;
+    color: White;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -28,6 +28,9 @@ li a {
 
 li a:hover {
     background-color: #444;
+}
+.active {
+    background-color: #4CAF50;
 }
 </style>
 </head>
