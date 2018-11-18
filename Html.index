@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: Lightblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #444;
+}
+</style>
+</head>
+<body>
+
+<ul>
+  <li><a class="active" href="#home">The Dilemma</a></li>
+  <li><a href="#news">Why You Should</a></li>
+  <li><a href="#contact">Why You Should Not</a></li>
+  <li><a href="#about">WHat I Would Do</a></li>
+</ul>
+
+</body>
+</html>
+  
+<!--  Meta  -->
+<meta charset="UTF-8" />
+<title>Whales</title>
+
+<!--  Styles  -->
+<link rel="stylesheet" href="styles/index.processed.css">
+</head>
+
+<body>
+  <!DOCTYPE html>
+  <html>
+
+  <head>
+    <style>
+      h1 {
+        font-size: 35px;
+      }
+
+      h2 {
+        font-size: 30px;
+      }
+
+      p {
+        font-size: 20px;
+      }
+    </style>
+  </head>
+
+  <body>
+    <h1>Ethical Dilemma
+      <h1>
+
+        <p> Here's an ethical dilemma: Your parent loses his/her job. You could help out by selling illegal dvds on the streets. What should you do? That is the question, it's not wether or not you could do it, its about wether or not you should do it.
+
+        </p>
+        <div class="gallery">
+  <a target="_blank" href="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg">
+    <img src="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg" alt="crossroads" width="600" height="400">
+  </a>
+  
+
+</body>
+</html>
+
+  <!DOCTYPE html>
+  <html>
+
+  <body>
