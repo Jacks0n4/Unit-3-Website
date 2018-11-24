@@ -37,10 +37,10 @@ li a:hover {
 <body>
 
 <ul>
-  <li><a class="active" href="#home">The Dilemma</a></li>
-  <li><a href="#news">Why You Should</a></li>
-  <li><a href="#contact">Why You Should Not</a></li>
-  <li><a href="#about">WHat I Would Do</a></li>
+  <li><a class="active" href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
 </ul>
 
 </body>
@@ -48,13 +48,25 @@ li a:hover {
   
 <!--  Meta  -->
 <meta charset="UTF-8" />
-<title>Whales</title>
 
 <!--  Styles  -->
 <link rel="stylesheet" href="styles/index.processed.css">
 </head>
 
 <body>
+  <!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: lightblue;
+}
+</style>
+</head>
+<body>
+
+</body>
+</html>
   <!DOCTYPE html>
   <html>
 
@@ -69,7 +81,7 @@ li a:hover {
       }
 
       p {
-        font-size: 20px;
+        font-size: 15px;
       }
     </style>
   </head>
@@ -78,12 +90,17 @@ li a:hover {
     <h1>Ethical Dilemma
       <h1>
 
-        <p> Here's an ethical dilemma: Your parent loses his/her job. You could help out by selling illegal dvds on the streets. What should you do? That is the question, it's not wether or not you could do it, its about wether or not you should do it.
-
-        </p>
+        <p> Here's an ethical dilemma: Your parent loses his/her job. You could help out by selling illegal dvds on the streets. What should you do? That is the question, it's not wether or not you could do it, its about wether or not you should do it. </p>
+       
+        <p> Here are three reasons why you should help out by selling illegal DVD's. The first one is that you would be helping your family earn money to help keep a good financial status. Another one would be that the money you earn would be put to good use to help your struggling family.One more reason is that you would be providing others with DVD's that possibly weren't obtainable otherwise.
+        
+        <p> Here are a few reasons as to why you should not sell the DVD's. The first reason would be that it is illegal. The second would be that you could get a fine for selling them. Lastly you could feel guilty for doing it which would affect your day to day emotions. <p>
+        
+        <p> What I would do in this situation would be to sell the DVD's. Although it is a wrong thing to do I would be doing it for the right reasons and that alone is enough for me. 
+       
         <div class="gallery">
   <a target="_blank" href="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg">
-    <img src="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg" alt="crossroads" width="600" height="400">
+    <img src="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg" alt="crossroads" width="400" height="300">
   </a>
   
 
