@@ -96,7 +96,8 @@ body {
   <a target="_blank" href="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg">
     <img src="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg" alt="crossroads" width="400" height="300">
   </a> 
-
+<div class="desc">Crossroads</div>
+</div>
 </body>
 </html>
 
