@@ -51,7 +51,8 @@ li a:hover {
 
 <!--  Styles  -->
 <link rel="stylesheet" href="styles/index.processed.css">
-</head>
+
+  </head>
 
 <body>
   <!DOCTYPE html>
@@ -96,12 +97,26 @@ body {
   <a target="_blank" href="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg">
     <img src="https://www.digitaldealer.com/wp-content/uploads/2014/03/crossroads.jpg" alt="crossroads" width="400" height="300">
   </a> 
-<div class="desc">Crossroads</div>
-</div>
+
+</body>
+</html>
+    <!DOCTYPE html>
+<html>
+<head>
+<style>
+a {
+  color: Red;
+}
+</style>
+</head>
+<body>
+
+<p><b><a href="https://www.digitaldealer.com/at-the-crossroads-of-culture-and-service-efficiency/" target="https://www.digitaldealer.com/at-the-crossroads-of-culture-and-service-efficiency/">This is a link to the Digital Dealer website. the author of the image is not listed.</a></b></p>
+
 </body>
 </html>
 
-  <!DOCTYPE html>
+<!DOCTYPE html>
   <html>
 
   <body>
